@@ -1,0 +1,6 @@
+{
+  "name": "AlphaVision-Trader AI",
+  "description": "Agen AI Multimodal Ekspert untuk analisis teknikal visual grafik trading Forex (XAUUSD) & Kripto (BTCUSD) dengan kepatuhan EMA 50, RSI, pola candle, dan sentimen pasar real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
